@@ -8,5 +8,8 @@ namespace PIS_1
 {
     class superkulurbana
     {
+        public void test()
+        {
+        }
     }
 }
